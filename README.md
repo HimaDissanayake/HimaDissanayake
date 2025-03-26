@@ -1,5 +1,5 @@
 <h1>Hi, I'm Himali ! <br/>
-  <a Data Analyst  System Analyst</a></h1>
+  <a> Data Analyst | System Analyst</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
